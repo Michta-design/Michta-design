@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...he/him they/them
 - ⚡ Fun fact: ...I used to have a cat named Fry, after the great Phillip J. Fry
 
+📝 **Learning notes:** [How to compare files](COMPARING_FILES.md)
+
 <!---
 Michta-design/Michta-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
